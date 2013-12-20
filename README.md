@@ -23,7 +23,7 @@ Instructions
 
 1 Clone the repo into your the Assets directory of your project
 
-    git clone https://github.com/nickfloyd/nuget-test.git; remove-item nuget-test/.git -Recurse -Force
+    git clone https://github.com/nickfloyd/newrelic-unity.git
 
 2 Open your project and add drag the NewRelicULinkServerInstrumentation into your main camera / scene properties window
 
