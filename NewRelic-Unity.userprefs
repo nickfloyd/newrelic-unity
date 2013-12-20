@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewRelicULinkClientInstrumentation.cs">
+    <Files>
+      <File FileName="CountMetric.cs" Line="1" Column="1" />
+      <File FileName="NewRelicULinkServerInstrumentation.cs" Line="17" Column="28" />
+      <File FileName="NewRelicULinkInstrumentationBase.cs" Line="2" Column="7" />
+      <File FileName="NewRelicULinkClientInstrumentation.cs" Line="51" Column="30" />
+      <File FileName="PlatformReporter.cs" Line="47" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
